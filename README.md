@@ -500,13 +500,12 @@ values.yaml
 - [Honeycomb.io](https://honeycomb.io)
 - [Honeycomb MCP](https://mcp.honeycomb.io)
 - [Minikube Docs](https://minikube.sigs.k8s.io/docs/)
-- [Original Video by Cloud Champ](https://youtu.be/cQtudMvEYOU)
 
 ---
 
 ## 👤 Author
 
-**Yashvardhan Sahu**
+**Yogesh Sahastrabuddhe**
 - Built on AWS EC2 with real hands-on experience
 - Part of DevOps job-ready learning journey
 
